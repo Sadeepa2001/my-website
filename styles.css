@@ -4,13 +4,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e77777;
 }
 
 /* Style for the header */
 header {
-    background-color: #333;
-    color: white;
+    background-color: #080303;
+    color: rgb(248, 134, 134);
     padding: 10px 0;
     text-align: center;
 }
@@ -21,7 +21,7 @@ header h1 {
 
 /* Style for the navigation menu */
 nav {
-    background-color: #444;
+    background-color: #b997f8;
     padding: 10px 0;
 }
 
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(250, 168, 168);
     text-decoration: none;
 }
 
@@ -50,7 +50,7 @@ nav ul li a:hover {
 section {
     margin: 20px;
     padding: 10px;
-    background-color: white;
+    background-color: rgb(241, 161, 161);
     border-radius: 5px;
 }
 
@@ -60,8 +60,8 @@ section h2 {
 
 /* Style for the footer */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #030000;
+    color: rgb(245, 3, 3);
     text-align: center;
     padding: 10px 0;
     position: fixed;
